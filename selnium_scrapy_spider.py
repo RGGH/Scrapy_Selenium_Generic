@@ -3,7 +3,6 @@
 #|r|e|d|a|n|d|g|r|e|e|n|.|c|o|.|u|k|
 #+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 # ! Firefox has been used for webdriver #
-# Version 4 (call it 'v2' on James' repo still) #
 
 import os
 import json
